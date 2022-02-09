@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300;400;700&display=swap');
+Body{
+margin: 0;
+padding: 0;
+}
+
+*{
+    font-family: 'Rowdies', cursive;
+    color: #426A5A;
+    background-color: #D9F2B4;
+    text-align: center;
+
+}
+h1{
+    color: #EF767A;
+    background-color: 
+
+
+}
+h2{
+    text-decoration: underline;
+color: #426A5A;
+
+}
+h3{
+    color: #FF7F51;
+
+}
+h3{
+    text-align: left;
+
+}
